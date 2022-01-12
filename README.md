@@ -1,12 +1,4 @@
-
 # Project-machine-learning-Social-media
-Projeto focado em marketing analytics e social media nesse projeto tirar resultados bom nas campanhas, receitas e análise de dados
-
-- Aprendizados
-
-O que você aprendeu construindo esse projeto? 
-
-Quais desafios você enfrentou e como você superou-os?
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
@@ -33,9 +25,15 @@ Quais desafios você enfrentou e como você superou-os?
 [![](https://img.shields.io/badge/Numpy-white.svg)](https://numpy.org/)
 [![](https://img.shields.io/badge/PowerBI-red.svg)](https://powerbi.microsoft.com/pt-br/)
 
-
 ![Logo](https://image.freepik.com/vetores-gratis/ilustracao-do-conceito-de-dados-visuais_114360-1912.jpg)
 
+Projeto focado em marketing analytics e social media nesse projeto tirar resultados bom nas campanhas, receitas e análise de dados
+
+- Aprendizados
+
+O que você aprendeu construindo esse projeto? 
+
+Quais desafios você enfrentou e como você superou-os?
 
 ## Stack utilizada
 
