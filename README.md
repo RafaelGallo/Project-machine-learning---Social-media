@@ -5,6 +5,7 @@ Projeto focado em marketing analytics e social media nesse projeto tirar resulta
 - Aprendizados
 
 O que você aprendeu construindo esse projeto? 
+
 Quais desafios você enfrentou e como você superou-os?
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
