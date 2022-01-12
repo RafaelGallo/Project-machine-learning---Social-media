@@ -1,13 +1,9 @@
 
 # Project-machine-learning-Social-media
-
 Projeto focado em marketing analytics e social media nesse projeto tirar resultados bom nas campanhas, receitas e análise de dados
 
-
-## Aprendizados
-
+- Aprendizados
 O que você aprendeu construindo esse projeto? Quais desafios você enfrentou e como você superou-os?
-
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
