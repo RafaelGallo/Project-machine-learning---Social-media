@@ -116,12 +116,13 @@ function App() {
   return <Component />
 }
 ```
-
-
 ## Base dados - Projeto
 
-| Dataset               | Link                                                |
+| Projeto               | Link                                                |
 | ----------------- | ---------------------------------------------------------------- |
+| Spam email | [Link](https://github.com/RafaelGallo/Project-machine-learning---Social-media/blob/main/notebooks/ML%20SPAM/Notebook/model_spam.ipynb)|
+| Social Network Ads | [Link](https://github.com/RafaelGallo/Project-machine-learning---Social-media/blob/main/notebooks/Social%20Network%20Ads/Modelo%20machine%20learning%20-%20Previs%C3%A3o%20vendas%20rede%20social.ipynb)|
+| Social Media page Analysis | https://www.kaggle.com/salmaneunus/ttl-fb|
 | Customer Personality Analysis| https://www.kaggle.com/imakash3011/customer-personality-analysis|
 | Instagram fake spammer genuine accounts| https://www.kaggle.com/free4ever1/instagram-fake-spammer-genuine-accounts|
 | Instagram fake followers| https://www.kaggle.com/bugrayan/instagram-fake-followers|
@@ -131,11 +132,6 @@ function App() {
 | Pfizer Instagram| https://www.kaggle.com/rezaunderfit/what-people-are-talking-about-pfizer-on-instagram|
 | Sentimental Analysis depressed | https://www.kaggle.com/gargmanas/sentimental-analysis-for-tweets|
 | Linkedin profiles and jobs | https://www.kaggle.com/killbot/linkedin-profiles-and-jobs-data|
-| Spam email | https://www.kaggle.com/mfaisalqureshi/spam-email|
-| Social Network Ads | https://www.kaggle.com/shub99/social-network-ads|
-| Social Media page Analysis | https://www.kaggle.com/salmaneunus/ttl-fb|
-
-
 
 
 ## Screenshots
