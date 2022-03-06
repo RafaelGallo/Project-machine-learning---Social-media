@@ -31,9 +31,8 @@ Projeto focado em marketing analytics e social media nesse projeto tirar resulta
 
 - Aprendizados
 
-O que você aprendeu construindo esse projeto? 
-
-Quais desafios você enfrentou e como você superou-os?
+- O que você aprendeu construindo esse projeto? 
+- Quais desafios você enfrentou e como você superou-os?
 
 ## Stack utilizada
 
@@ -45,16 +44,26 @@ Quais desafios você enfrentou e como você superou-os?
 
 **Dashboard:** Power BI, Google Data Studio
 
-
-## Licença
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
 ## Autores
 
 - [@RafaelGallo](https://github.com/RafaelGallo)
 
+## Base dados - Projeto
+
+| Projeto               | Link                                                |
+| ----------------- | ---------------------------------------------------------------- |
+| Spam email | [Link](https://github.com/RafaelGallo/Project-machine-learning---Social-media/blob/main/notebooks/ML%20SPAM/Notebook/model_spam.ipynb)|
+| Social Network Ads | [Link](https://github.com/RafaelGallo/Project-machine-learning---Social-media/blob/main/notebooks/Social%20Network%20Ads/Modelo%20machine%20learning%20-%20Previs%C3%A3o%20vendas%20rede%20social.ipynb)|
+| Social Media page Analysis | https://www.kaggle.com/salmaneunus/ttl-fb|
+| Customer Personality Analysis| https://www.kaggle.com/imakash3011/customer-personality-analysis|
+| Instagram fake spammer genuine accounts| https://www.kaggle.com/free4ever1/instagram-fake-spammer-genuine-accounts|
+| Instagram fake followers| https://www.kaggle.com/bugrayan/instagram-fake-followers|
+| Instagram fake and real accounts dataset| https://www.kaggle.com/rezaunderfit/instagram-fake-and-real-accounts-dataset/code|
+| 650.000 Instagram User Info| https://www.kaggle.com/bugrayan/650000-instagram-user-info|
+| 1100 instagram users datetime posts|https://www.kaggle.com/vasileiosmpletsos/1100-instagram-users-datetime-posts-data|
+| Pfizer Instagram| https://www.kaggle.com/rezaunderfit/what-people-are-talking-about-pfizer-on-instagram|
+| Sentimental Analysis depressed | https://www.kaggle.com/gargmanas/sentimental-analysis-for-tweets|
+| Linkedin profiles and jobs | https://www.kaggle.com/killbot/linkedin-profiles-and-jobs-data|
 
 ## Instalação 
 
@@ -116,23 +125,6 @@ function App() {
   return <Component />
 }
 ```
-## Base dados - Projeto
-
-| Projeto               | Link                                                |
-| ----------------- | ---------------------------------------------------------------- |
-| Spam email | [Link](https://github.com/RafaelGallo/Project-machine-learning---Social-media/blob/main/notebooks/ML%20SPAM/Notebook/model_spam.ipynb)|
-| Social Network Ads | [Link](https://github.com/RafaelGallo/Project-machine-learning---Social-media/blob/main/notebooks/Social%20Network%20Ads/Modelo%20machine%20learning%20-%20Previs%C3%A3o%20vendas%20rede%20social.ipynb)|
-| Social Media page Analysis | https://www.kaggle.com/salmaneunus/ttl-fb|
-| Customer Personality Analysis| https://www.kaggle.com/imakash3011/customer-personality-analysis|
-| Instagram fake spammer genuine accounts| https://www.kaggle.com/free4ever1/instagram-fake-spammer-genuine-accounts|
-| Instagram fake followers| https://www.kaggle.com/bugrayan/instagram-fake-followers|
-| Instagram fake and real accounts dataset| https://www.kaggle.com/rezaunderfit/instagram-fake-and-real-accounts-dataset/code|
-| 650.000 Instagram User Info| https://www.kaggle.com/bugrayan/650000-instagram-user-info|
-| 1100 instagram users datetime posts|https://www.kaggle.com/vasileiosmpletsos/1100-instagram-users-datetime-posts-data|
-| Pfizer Instagram| https://www.kaggle.com/rezaunderfit/what-people-are-talking-about-pfizer-on-instagram|
-| Sentimental Analysis depressed | https://www.kaggle.com/gargmanas/sentimental-analysis-for-tweets|
-| Linkedin profiles and jobs | https://www.kaggle.com/killbot/linkedin-profiles-and-jobs-data|
-
 
 ## Screenshots
 
