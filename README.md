@@ -27,7 +27,7 @@
 
 ![Logo](https://image.freepik.com/vetores-gratis/ilustracao-do-conceito-de-dados-visuais_114360-1912.jpg)
 
-Projeto focado em marketing analytics e social media nesse projeto tirar resultados bom nas campanhas, receitas e análise de dados
+Projeto focado em marketing analytics e social media nesse projeto tirar resultados bom nas campanhas, receitas e análise de dados.
 
 - Aprendizados
 
