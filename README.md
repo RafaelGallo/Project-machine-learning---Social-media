@@ -50,7 +50,7 @@ Projeto focado em marketing analytics e social media nesse projeto tirar resulta
 
 ## Base dados - Projeto
 
-| Projeto               | Link                                                |
+| Nome do projeto               | Link                                                |
 | ----------------- | ---------------------------------------------------------------- |
 | Spam email | [Link](https://github.com/RafaelGallo/Project-machine-learning---Social-media/blob/main/notebooks/ML%20SPAM/Notebook/model_spam.ipynb)|
 | Social Network Ads | [Link](https://github.com/RafaelGallo/Project-machine-learning---Social-media/blob/main/notebooks/Social%20Network%20Ads/Modelo%20machine%20learning%20-%20Previs%C3%A3o%20vendas%20rede%20social.ipynb)|
@@ -62,6 +62,12 @@ Projeto focado em marketing analytics e social media nesse projeto tirar resulta
 | 650.000 Instagram User Info| https://www.kaggle.com/bugrayan/650000-instagram-user-info|
 | 1100 instagram users datetime posts|https://www.kaggle.com/vasileiosmpletsos/1100-instagram-users-datetime-posts-data|
 | Pfizer Instagram| https://www.kaggle.com/rezaunderfit/what-people-are-talking-about-pfizer-on-instagram|
+| Facebook Data |https://www.kaggle.com/sheenabatra/facebook-data/code|
+| Facebook Ad Campaign|https://www.kaggle.com/madislemsalu/facebook-ad-campaign|
+| Facebook reviews NLP |https://www.kaggle.com/leonwolber/facebook-reviews-trustpilot|
+| Facebook Reactions NLP |https://www.kaggle.com/johanabrahamsson/facebook-reactions|
+| Facebook Spam |https://www.kaggle.com/khajahussainsk/facebook-spam-dataset|
+| Facebook Posts NLP |https://www.kaggle.com/anhndo/facebook-posts-transport-for-nsw|
 | Sentimental Analysis depressed | https://www.kaggle.com/gargmanas/sentimental-analysis-for-tweets|
 | Linkedin profiles and jobs | https://www.kaggle.com/killbot/linkedin-profiles-and-jobs-data|
 
