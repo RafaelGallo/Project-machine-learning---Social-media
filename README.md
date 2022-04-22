@@ -55,7 +55,7 @@ Projeto focado em marketing analytics e social media nesse projeto tirar resulta
 | Spam email | [Link projeto](https://github.com/RafaelGallo/Project-machine-learning---Social-media/blob/main/notebooks/ML%20SPAM/Notebook/model_spam.ipynb)|
 | Social Network Ads | [Link projeto](https://github.com/RafaelGallo/Project-machine-learning---Social-media/blob/main/notebooks/Social%20Network%20Ads/Modelo%20machine%20learning%20-%20Previs%C3%A3o%20vendas%20rede%20social.ipynb)|
 | Customer Personality Analysis|[Link projeto](https://github.com/RafaelGallo/Project-machine-learning---Social-media/blob/main/notebooks/Customer%20personality%20analysis/Jupyter%20notebook/model_ml_campaign.ipynb)|
-| Instagram fake spammer genuine accounts| [Link_projeto]()|
+| Instagram fake spammer genuine accounts| [Link_projeto](https://github.com/RafaelGallo/Project-machine-learning---Social-media/blob/main/notebooks/Instagram%20fake%20spammer%20genuine%20accounts/Notebook/Modelo%20machine%20learning%20-%20Detec%C3%A7%C3%A3o%20de%20Us%C3%BAario%20fake.ipynb)|
 | 1100 instagram users datetime posts|https://www.kaggle.com/vasileiosmpletsos/1100-instagram-users-datetime-posts-data|
 | Pfizer Instagram| https://www.kaggle.com/rezaunderfit/what-people-are-talking-about-pfizer-on-instagram|
 | Facebook Data |https://www.kaggle.com/sheenabatra/facebook-data/code|
