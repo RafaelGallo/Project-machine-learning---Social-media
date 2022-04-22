@@ -52,13 +52,10 @@ Projeto focado em marketing analytics e social media nesse projeto tirar resulta
 
 | Nome do projeto               | Link                                                |
 | ----------------- | ---------------------------------------------------------------- |
-| Spam email | [Link](https://github.com/RafaelGallo/Project-machine-learning---Social-media/blob/main/notebooks/ML%20SPAM/Notebook/model_spam.ipynb)|
-| Social Network Ads | [Link](https://github.com/RafaelGallo/Project-machine-learning---Social-media/blob/main/notebooks/Social%20Network%20Ads/Modelo%20machine%20learning%20-%20Previs%C3%A3o%20vendas%20rede%20social.ipynb)|
-| Customer Personality Analysis|[Link](https://github.com/RafaelGallo/Project-machine-learning---Social-media/blob/main/notebooks/Customer%20personality%20analysis/Jupyter%20notebook/model_ml_campaign.ipynb)|
-| Instagram fake spammer genuine accounts| https://www.kaggle.com/free4ever1/instagram-fake-spammer-genuine-accounts|
-| Instagram fake followers| https://www.kaggle.com/bugrayan/instagram-fake-followers|
-| Instagram fake and real accounts dataset| https://www.kaggle.com/rezaunderfit/instagram-fake-and-real-accounts-dataset/code|
-| 650.000 Instagram User Info| https://www.kaggle.com/bugrayan/650000-instagram-user-info|
+| Spam email | [Link projeto](https://github.com/RafaelGallo/Project-machine-learning---Social-media/blob/main/notebooks/ML%20SPAM/Notebook/model_spam.ipynb)|
+| Social Network Ads | [Link projeto](https://github.com/RafaelGallo/Project-machine-learning---Social-media/blob/main/notebooks/Social%20Network%20Ads/Modelo%20machine%20learning%20-%20Previs%C3%A3o%20vendas%20rede%20social.ipynb)|
+| Customer Personality Analysis|[Link projeto](https://github.com/RafaelGallo/Project-machine-learning---Social-media/blob/main/notebooks/Customer%20personality%20analysis/Jupyter%20notebook/model_ml_campaign.ipynb)|
+| Instagram fake spammer genuine accounts| [Link_projeto]()|
 | 1100 instagram users datetime posts|https://www.kaggle.com/vasileiosmpletsos/1100-instagram-users-datetime-posts-data|
 | Pfizer Instagram| https://www.kaggle.com/rezaunderfit/what-people-are-talking-about-pfizer-on-instagram|
 | Facebook Data |https://www.kaggle.com/sheenabatra/facebook-data/code|
