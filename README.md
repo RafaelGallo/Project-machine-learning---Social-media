@@ -54,7 +54,6 @@ Projeto focado em marketing analytics e social media nesse projeto tirar resulta
 | ----------------- | ---------------------------------------------------------------- |
 | Spam email | [Link](https://github.com/RafaelGallo/Project-machine-learning---Social-media/blob/main/notebooks/ML%20SPAM/Notebook/model_spam.ipynb)|
 | Social Network Ads | [Link](https://github.com/RafaelGallo/Project-machine-learning---Social-media/blob/main/notebooks/Social%20Network%20Ads/Modelo%20machine%20learning%20-%20Previs%C3%A3o%20vendas%20rede%20social.ipynb)|
-| Social Media page Analysis | https://www.kaggle.com/salmaneunus/ttl-fb|
 | Customer Personality Analysis|[Link](https://github.com/RafaelGallo/Project-machine-learning---Social-media/blob/main/notebooks/Customer%20personality%20analysis/Jupyter%20notebook/model_ml_campaign.ipynb)|
 | Instagram fake spammer genuine accounts| https://www.kaggle.com/free4ever1/instagram-fake-spammer-genuine-accounts|
 | Instagram fake followers| https://www.kaggle.com/bugrayan/instagram-fake-followers|
